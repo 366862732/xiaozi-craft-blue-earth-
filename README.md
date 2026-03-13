@@ -1,4 +1,4 @@
-# xiaozi-craft-blue-earth-
+# xiaozi-craft-blue-earth
  xiaozi craft的最新项目，蔚蓝的地球！
 ##xiaozi-craft-blue-earth
 💙 欢迎来到 xiaozi craft 的蓝色星球！
